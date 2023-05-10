@@ -1,0 +1,15 @@
+/Users/paulscala/VSCode/C#/GettingStarted/bin/Debug/net7.0/GettingStarted
+/Users/paulscala/VSCode/C#/GettingStarted/bin/Debug/net7.0/GettingStarted.deps.json
+/Users/paulscala/VSCode/C#/GettingStarted/bin/Debug/net7.0/GettingStarted.runtimeconfig.json
+/Users/paulscala/VSCode/C#/GettingStarted/bin/Debug/net7.0/GettingStarted.dll
+/Users/paulscala/VSCode/C#/GettingStarted/bin/Debug/net7.0/GettingStarted.pdb
+/Users/paulscala/VSCode/C#/GettingStarted/obj/Debug/net7.0/GettingStarted.csproj.AssemblyReference.cache
+/Users/paulscala/VSCode/C#/GettingStarted/obj/Debug/net7.0/GettingStarted.GeneratedMSBuildEditorConfig.editorconfig
+/Users/paulscala/VSCode/C#/GettingStarted/obj/Debug/net7.0/GettingStarted.AssemblyInfoInputs.cache
+/Users/paulscala/VSCode/C#/GettingStarted/obj/Debug/net7.0/GettingStarted.AssemblyInfo.cs
+/Users/paulscala/VSCode/C#/GettingStarted/obj/Debug/net7.0/GettingStarted.csproj.CoreCompileInputs.cache
+/Users/paulscala/VSCode/C#/GettingStarted/obj/Debug/net7.0/GettingStarted.dll
+/Users/paulscala/VSCode/C#/GettingStarted/obj/Debug/net7.0/refint/GettingStarted.dll
+/Users/paulscala/VSCode/C#/GettingStarted/obj/Debug/net7.0/GettingStarted.pdb
+/Users/paulscala/VSCode/C#/GettingStarted/obj/Debug/net7.0/GettingStarted.genruntimeconfig.cache
+/Users/paulscala/VSCode/C#/GettingStarted/obj/Debug/net7.0/ref/GettingStarted.dll
